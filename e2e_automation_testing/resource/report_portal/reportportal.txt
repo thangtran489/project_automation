@@ -1,0 +1,5 @@
+--listener robotframework_reportportal.listener
+--variable RP_UUID:"1f2c705b-8386-46d3-bf0c-81bd18f99d0b"
+--variable RP_ENDPOINT:"http://localhost:8080"
+--variable RP_LAUNCH:"superadmin_TEST_EXAMPLE"
+--variable RP_PROJECT:"reportportal_project_name"
