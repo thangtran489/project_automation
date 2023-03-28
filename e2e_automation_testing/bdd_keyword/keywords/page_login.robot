@@ -7,8 +7,8 @@ ${WEBSITE}      https://live.primedatacdp.com
 ${USERNAME}     //*[@id="username"]
 ${PASSWORD}     //*[@id="password"]
 ${BUTTON_LOGIN}     //*[@type="submit"]
-${INPUT_USERNAME}    thang.tran@primedata.ai
-${INPUT_PASSWORD}       Lunthse61727
+${INPUT_USERNAME}
+${INPUT_PASSWORD}
 ${MENU_ITEM_PROFILE}    //*[@id="overlay"]//following::div[8]
 ${SEGMENT_ELEMENT}     //*[text()="Self-serve Segments"]
 ${CREATE_SEGMENT_ELEMENT}       //*[@id="Segments Overview"]//following::button[2]
